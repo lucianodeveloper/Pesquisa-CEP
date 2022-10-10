@@ -54,10 +54,10 @@
 ## Sobre o projeto
 
 <hr>
-<img src="https://user-images.githubusercontent.com/56325350/125348256-5e022180-e332-11eb-96e4-e57d8d9ed568.png" alt="Address search - login">
+<img src="https://raw.githubusercontent.com/lucianodeveloper/Pesquisa-CEP/d461d4631f532c40459f51e5a1144ef6df21082a/assets/Capturar.PNG" alt="Busca CEP">
 <hr>
 
-Address search é uma aplicação web desenvolvida a partir da metodologia <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX">Ajax</a>, que tem como objetivo fazer a pesquisa de endereço a partir do CEP digitado. Há responsividade no site.
+Pesquisa CEP é uma aplicação web desenvolvida a partir da metodologia <a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX">Ajax</a>, que tem como objetivo fazer a pesquisa de endereço a partir do CEP digitado. Há responsividade no site.
 
 Alguns dos assuntos aprendidos e abordados durante a construção do projeto foram: Ajax, XML, XmlToJson, api, ViaCEP api, etc.
 
@@ -75,9 +75,8 @@ As tecnologias usadas nesse projeto foram:
 ## Como usar
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c199aab-c422-425e-9dae-f74628518c10/deploy-status)](https://app.netlify.com/sites/address-search-gsj/deploys)
 <br>
-Acesse o projeto on-line: <a href="https://address-search-gsj.netlify.app/">Address search</a>, após acessar, digite o CEP desejado da seguinte forma: 00000000, sem nenhuma formatação, após isso faça a busca, caso o CEP exista, as informações do endereço estarão disponíveis logo em seguida.
+Acesse o projeto on-line: <a href="https://pesquisecep.vercel.app/">Pesquisa CEP</a>, após acessar, digite o CEP desejado da seguinte forma: 00000000, sem nenhuma formatação, após isso faça a busca, caso o CEP exista, as informações do endereço estarão disponíveis logo em seguida.
 
 Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente. Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
 
@@ -89,7 +88,7 @@ Este é um exemplo de como você pode dar instruções sobre como configurar seu
 
 ```
 # Clone este repositório
-$ git clone https://github.com/GilbertoASJ/Address-search.git
+$ git clone https://github.com/lucianodeveloper/Pesquisa-CEP.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Address search
