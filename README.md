@@ -18,7 +18,7 @@
     <a href="https://github.com/lucianodeveloper/Pesquisa-CEP"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lucianodeveloper/Pesquisa-CEP">Ver Demo</a>
+    <a href="https://pesquisecep.vercel.app/">Ver Demo</a>
     ·
     <a href="https://github.com/lucianodeveloper/Pesquisa-CEP/issues">Reportar Bug</a>
     ·
