@@ -62,7 +62,7 @@ main {
 }
 main section h1 {
   width: 100%;
-  background-color: #143979;
+  background-color: #9758133;
   color: whitesmoke;
   text-align: center;
   padding-bottom: 6.875rem;
@@ -136,7 +136,7 @@ main #form #second-form-section .first-column {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #0a0e14;
+  background-color: #555599;
   padding: 2rem;
   border-radius: 1rem;
 }
@@ -151,7 +151,7 @@ main #form #second-form-section .second-column {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #0a0e14;
+  background-color: #555599;
   padding: 1rem 2rem;
   border-radius: 1rem;
 }
