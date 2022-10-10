@@ -13,16 +13,16 @@
   <h2 align="center">Address search</h2>
 
   <p align="center">
-    Address search - Faça pesquisa de endereços a partir do CEP de forma rápida e simples
+    Pesquisa CEP - Faça uma pesquisa a partir do CEP de forma rápida e simples. 🔍
     <br />
-    <a href="https://github.com/GilbertoASJ/Address-search"><strong>Explore os arquivos »</strong></a>
+    <a href="https://github.com/lucianodeveloper/Pesquisa-CEP"><strong>Explore os arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GilbertoASJ/Address-search">Ver Demo</a>
+    <a href="https://github.com/lucianodeveloper/Pesquisa-CEP">Ver Demo</a>
     ·
-    <a href="https://github.com/GilbertoASJ/Address-search/issues">Reportar Bug</a>
+    <a href="https://github.com/lucianodeveloper/Pesquisa-CEP/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/GilbertoASJ/Address-search/issues">Implementar Feature</a>
+    <a href="https://github.com/lucianodeveloper/Pesquisa-CEP/issues">Implementar Feature</a>
   </p>
 </p>
 
@@ -47,7 +47,6 @@
     </li>
     <li><a href="#Contribuindo">Contribuindo</a></li>
     <li><a href="#Licença">Licença</a></li>
-    <li><a href="#Reconhecimentos">Reconhecimentos</a></li>
   </ol>
 </details>
 
