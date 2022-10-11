@@ -10,7 +10,7 @@
     >
   </a>
 
-  <h2 align="center">Address search</h2>
+  <h2 align="center">Pesquisa CEP</h2>
 
   <p align="center">
     Pesquisa CEP - Faça uma pesquisa a partir do CEP de forma rápida e simples. 🔍
