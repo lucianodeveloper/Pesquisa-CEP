@@ -91,7 +91,7 @@ Este é um exemplo de como você pode dar instruções sobre como configurar seu
 $ git clone https://github.com/lucianodeveloper/Pesquisa-CEP.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Address search
+$ cd Pesquisa-CEP
 
 # Abra index.html no navegador e veja o projeto rodar
 ```
